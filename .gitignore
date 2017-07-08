@@ -1,0 +1,11 @@
+.floyddata
+.floydexpt
+.floydignore
+.ipynb_checkpoints/
+code.zip
+code/.ipynb_checkpoints/
+image-classification.pem
+input/
+model.json
+output/
+image-classification.pem
