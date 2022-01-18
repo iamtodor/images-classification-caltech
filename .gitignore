@@ -10,3 +10,4 @@ model.json
 output/
 image-classification.pem
 *.sh
+.idea
