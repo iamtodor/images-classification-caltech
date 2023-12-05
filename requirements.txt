@@ -1,6 +1,6 @@
-scipy
-numpy
-pandas
-sklearn
-keras
-matplotlib
+scipy==1.11.4
+numpy==1.26.2
+pandas==2.1.3
+scikit-learn==1.3.2
+keras==3.0.0
+matplotlib==3.8.2
